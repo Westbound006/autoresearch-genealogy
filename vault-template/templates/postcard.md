@@ -10,6 +10,9 @@ created: YYYY-MM-DD
 tags: [genealogy, surname, transcription, postcard, correspondence]
 ocr_method: "[tesseract | claude_multimodal | manual]"
 ocr_quality: "[good | partial | bad]"
+client: "[CLIENT]"
+deliverable: true
+reviewed: false
 ---
 
 # Postcard: [Sender] to [Recipient], [Date or "Undated"]
