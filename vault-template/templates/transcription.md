@@ -8,6 +8,9 @@ created: YYYY-MM-DD
 tags: [genealogy, surname, transcription, document_type]
 ocr_method: "[tesseract | claude_multimodal | manual]"
 ocr_quality: "[good | partial | bad]"
+client: "[CLIENT]"
+deliverable: true
+reviewed: false
 ---
 
 # [Document Title]

@@ -10,6 +10,9 @@ sources:
   - "[Source 2]"
 created: YYYY-MM-DD
 tags: [genealogy, surname, person]
+client: "[CLIENT]"
+deliverable: false
+reviewed: false
 ---
 
 # [Full Name]
